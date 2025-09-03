@@ -3,7 +3,7 @@ This repository is the official implementation of [ FastTWE: Making TWE-based Ti
 
 ## The overall execution process of applying the FastTWE algorithm to time series similarity search.
 
-![The overall execution process of applying the FastTWE algorithm to time series similarity search.](framework.png) 
+![The overall execution process of applying the FastTWE algorithm to time series similarity search.](framework.jpg) 
 
 ## Usage
 download and read the UCR dataset(https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
