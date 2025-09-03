@@ -1,9 +1,7 @@
 # FastTWE: Making TWE-based Time-Series Similarity Search Faster via Random Convolutional Kernels
 This repository is the official implementation of [ FastTWE: Making TWE-based Time-Series Similarity Search Faster via Random Convolutional Kernels]
 
-## The overall execution process of applying the FastTWE algorithm to time series similarity search.
 
-![The overall execution process of applying the FastTWE algorithm to time series similarity search.](framework.jpg) 
 
 ## Usage
 download and read the UCR dataset(https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
